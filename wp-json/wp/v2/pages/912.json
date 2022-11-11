@@ -1,0 +1,127 @@
+{
+  "id": 912,
+  "date": "2017-09-07T14:19:22",
+  "date_gmt": "2017-09-07T14:19:22",
+  "guid": { "rendered": "http://staging.#/?page_id=912" },
+  "modified": "2021-06-14T16:43:28",
+  "modified_gmt": "2021-06-14T16:43:28",
+  "slug": "what-we-do-3-2",
+  "status": "publish",
+  "type": "page",
+  "link": "./what-we-do/",
+  "title": { "rendered": "What we do" },
+  "content": {
+    "rendered": "<p><div class=\"fusion-fullwidth fullwidth-box fusion-builder-row-1 hundred-percent-fullwidth non-hundred-percent-height-scrolling\" style=\"background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:4%;padding-right:0px;padding-bottom:0%;padding-left:0px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;\" ><div class=\"fusion-builder-row fusion-row\"><div class=\"fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_1_6 1_6 fusion-one-sixth fusion-column-first\" style=\"width:16.666666666667%;width:calc(16.666666666667% - ( ( 4% + 4% ) * 0.16666666666667 ) );margin-right: 4%;margin-top:0px;margin-bottom:0px;\"><div class=\"fusion-column-wrapper fusion-flex-column-wrapper-legacy\" style=\"background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;\"><div class=\"fusion-clearfix\"></div></div></div><div class=\"fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_2_3 2_3 fusion-two-third\" style=\"width:66.666666666667%;width:calc(66.666666666667% - ( ( 4% + 4% ) * 0.66666666666667 ) );margin-right: 4%;margin-top:0px;margin-bottom:0px;\"><div class=\"fusion-column-wrapper fusion-flex-column-wrapper-legacy\" style=\"background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 30px 0px 0px 0px;\"><style type=\"text/css\"></style><div class=\"fusion-title title fusion-title-1 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-one\" style=\"margin-top:0px;margin-right:0px;margin-bottom:30px;margin-left:0px;\"><h1 class=\"title-heading-center\" style=\"margin:0;\">Our services</h1></div><div class=\"fusion-text fusion-text-1\"><p style=\"text-align: center;\">Kinapse provides Development Operations services (Clinical Trial Disclosure and Medical Writing)</p>\n</div><div class=\"fusion-clearfix\"></div></div></div><div class=\"fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_1_6 1_6 fusion-one-sixth fusion-column-last\" style=\"width:16.666666666667%;width:calc(16.666666666667% - ( ( 4% + 4% ) * 0.16666666666667 ) );margin-top:0px;margin-bottom:0px;\"><div class=\"fusion-column-wrapper fusion-flex-column-wrapper-legacy\" style=\"background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;\"><div class=\"fusion-clearfix\"></div></div></div></div></div><div class=\"fusion-fullwidth fullwidth-box fusion-builder-row-2 hundred-percent-fullwidth non-hundred-percent-height-scrolling\" style=\"background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:6%;padding-right:0px;padding-bottom:6%;padding-left:0px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;\" ><div class=\"fusion-builder-row fusion-row\"><div class=\"fusion-layout-column fusion_builder_column fusion-builder-column-3 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last\" style=\"margin-top:0px;margin-bottom:30px;\"><div class=\"fusion-column-wrapper fusion-flex-column-wrapper-legacy\" style=\"background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;\"><div class=\"service-category-block\"><div class=\"inner\"><img src=\"./wp-content/uploads/2017/09/microscope.png\" class=\"icon\" alt=\"\" /><div class=\"intro\"><h2>Development Operations</h2><p>Our strength and depth in Clinical Operations ensures the successful delivery of all projects.</p><a class=\"fusion-button button-flat fusion-button-square button-large button-default button-1\" href=\"./development_operations/\">Find out more</a></div><ul class=\"services\"><li class=\"service-block cl-green spmob-left sptab-left sp-left\"><span class=\"inner\"><a href=\"./regulatory-scientific-writing/\"><span class=\"title\">Regulatory &amp; Scientific Writing</span><span class=\"link\">Read more &raquo;</span></a></span></li><li class=\"service-block cl-magenta spmob-right sptab-right sp-middle\"><span class=\"inner\"><a href=\"./clinical-trial-disclosure/\"><span class=\"title\">Clinical Trial Disclosure</span><span class=\"link\">Read more &raquo;</span></a></span></li><li class=\"service-block cl-purple spmob-left sptab-left sp-left\"><span class=\"inner\"><a href=\"./plain-language-summaries-pls/\"><span class=\"title\">Plain Language Summary</span><span class=\"link\">Read more &raquo;</span></a></span></li></ul></div></div><div class=\"fusion-clearfix\"></div></div></div></div></div><div class=\"fusion-fullwidth fullwidth-box fusion-builder-row-3 fusion-parallax-none nonhundred-percent-fullwidth non-hundred-percent-height-scrolling\" style=\"background-color: rgba(255,255,255,0);background-image: url(&quot;./wp-content/uploads/2017/08/cta-bg-2.jpg&quot;);background-position: left center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;\" ><div class=\"fusion-builder-row fusion-row\"><div class=\"fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last\" style=\"margin-top:0px;margin-bottom:0px;\"><div class=\"fusion-column-wrapper fusion-flex-column-wrapper-legacy\" style=\"background-position:center center;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 40px 0px 40px 0px;\"><div class=\"imageframe-align-center\"><span class=\" fusion-imageframe imageframe-none imageframe-1 hover-type-none\"><img width=\"60\" height=\"45\" title=\"cta-hexagons-coloured-60px\" src=\"./wp-content/uploads/2017/08/cta-hexagons-coloured-60px.png\" class=\"img-responsive wp-image-396\"/></span></div><div class=\"fusion-sep-clear\"></div><div class=\"fusion-separator fusion-full-width-sep\" style=\"margin-left: auto;margin-right: auto;margin-top:15px;width:100%;\"></div><div class=\"fusion-sep-clear\"></div><style type=\"text/css\"></style><div class=\"fusion-title title fusion-title-2 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-two\" style=\"margin-top:0px;margin-right:0px;margin-bottom:10px;margin-left:0px;\"><h2 class=\"title-heading-center\" style=\"margin:0;\"><h2 style=\"text-align: center;\"><span style=\"color: #ffffff;\">Want to learn more?</span></h2></h2></div><div class=\"fusion-text fusion-text-2\"><p style=\"text-align: center;\"><span style=\"color: #ffffff;\">Get in touch with our expert team</span></p>\n</div><style type=\"text/css\"></style><div class=\"fusion-title title fusion-title-3 fusion-sep-none fusion-title-center fusion-title-text fusion-title-size-six\" style=\"margin-top:5px;margin-right:0px;margin-bottom:30px;margin-left:0px;\" id=\"cta_section\"><h6 class=\"title-heading-center\" style=\"margin:0;\"><h5 style=\"text-align: center;\"><i class=\"fb-icon-element-1 fb-icon-element fontawesome-icon fa fa-envelope circle-no fusion-text-flow\" style=\"font-size:22px;margin-right:11px;\"></i><style>i.fb-icon-element.fontawesome-icon.fb-icon-element-1{ color: #FFFFFF;}i.fb-icon-element.fontawesome-icon.fb-icon-element-1:hover { color: #FFFFFF;}</style><a href=\"mailto:hello@#\"><span style=\"color: #ffffff;\">hello@#</span></a></h5></h6></div><div class=\"fusion-aligncenter\"><style type=\"text/css\">.fusion-button.button-1 {border-radius:0px;}</style><a class=\"fusion-button button-flat fusion-button-default-size button-default button-1 fusion-button-default-span fusion-button-default-type\" target=\"_self\" href=\"/contact-us\"><span class=\"fusion-button-text\">Get in touch</span></a></div><div class=\"fusion-clearfix\"></div></div></div></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "100-width.php",
+  "meta": { "_mi_skip_tracking": false },
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.9 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Kinapse | Supporting Pharma throughout the drug development life cycle</title>\n<meta name=\"description\" content=\"If you are researching, developing or commercialising a new drug, Kinapse can help. We offer services throughout the drug development life cycle.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"./what-we-do/\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Kinapse | Supporting Pharma throughout the drug development life cycle\" />\n<meta property=\"og:description\" content=\"If you are researching, developing or commercialising a new drug, Kinapse can help. We offer services throughout the drug development life cycle.\" />\n<meta property=\"og:url\" content=\"./what-we-do/\" />\n<meta property=\"og:site_name\" content=\"Kinapse website\" />\n<meta property=\"article:modified_time\" content=\"2021-06-14T16:43:28+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Estimated reading time\" />\n\t<meta name=\"twitter:data1\" content=\"6 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"./what-we-do/\",\"url\":\"./what-we-do/\",\"name\":\"Kinapse | Supporting Pharma throughout the drug development life cycle\",\"isPartOf\":{\"@id\":\"./#website\"},\"datePublished\":\"2017-09-07T14:19:22+00:00\",\"dateModified\":\"2021-06-14T16:43:28+00:00\",\"description\":\"If you are researching, developing or commercialising a new drug, Kinapse can help. We offer services throughout the drug development life cycle.\",\"breadcrumb\":{\"@id\":\"./what-we-do/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"./what-we-do/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"./what-we-do/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"./\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"What we do\"}]},{\"@type\":\"WebSite\",\"@id\":\"./#website\",\"url\":\"./\",\"name\":\"Kinapse website\",\"description\":\"Kinapse website\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"./?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Kinapse | Supporting Pharma throughout the drug development life cycle",
+    "description": "If you are researching, developing or commercialising a new drug, Kinapse can help. We offer services throughout the drug development life cycle.",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "./what-we-do/",
+    "og_locale": "en_GB",
+    "og_type": "article",
+    "og_title": "Kinapse | Supporting Pharma throughout the drug development life cycle",
+    "og_description": "If you are researching, developing or commercialising a new drug, Kinapse can help. We offer services throughout the drug development life cycle.",
+    "og_url": "./what-we-do/",
+    "og_site_name": "Kinapse website",
+    "article_modified_time": "2021-06-14T16:43:28+00:00",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": { "Estimated reading time": "6 minutes" },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "./what-we-do/",
+          "url": "./what-we-do/",
+          "name": "Kinapse | Supporting Pharma throughout the drug development life cycle",
+          "isPartOf": { "@id": "./#website" },
+          "datePublished": "2017-09-07T14:19:22+00:00",
+          "dateModified": "2021-06-14T16:43:28+00:00",
+          "description": "If you are researching, developing or commercialising a new drug, Kinapse can help. We offer services throughout the drug development life cycle.",
+          "breadcrumb": { "@id": "./what-we-do/#breadcrumb" },
+          "inLanguage": "en-GB",
+          "potentialAction": [
+            { "@type": "ReadAction", "target": ["./what-we-do/"] }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "./what-we-do/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "./"
+            },
+            { "@type": "ListItem", "position": 2, "name": "What we do" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "./#website",
+          "url": "./",
+          "name": "Kinapse website",
+          "description": "Kinapse website",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "./?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-GB"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "./wp-json/wp/v2/pages/912" }],
+    "collection": [{ "href": "./wp-json/wp/v2/pages" }],
+    "about": [{ "href": "./wp-json/wp/v2/types/page" }],
+    "author": [
+      { "embeddable": true, "href": "./wp-json/wp/v2/users/2" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "./wp-json/wp/v2/comments?post=912"
+      }
+    ],
+    "version-history": [
+      { "count": 89, "href": "./wp-json/wp/v2/pages/912/revisions" }
+    ],
+    "predecessor-version": [
+      {
+        "id": 16978,
+        "href": "./wp-json/wp/v2/pages/912/revisions/16978"
+      }
+    ],
+    "wp:attachment": [{ "href": "./wp-json/wp/v2/media?parent=912" }],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

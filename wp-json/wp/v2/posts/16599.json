@@ -1,0 +1,189 @@
+{
+  "id": 16599,
+  "date": "2020-07-31T12:26:54",
+  "date_gmt": "2020-07-31T12:26:54",
+  "guid": { "rendered": "./?p=16599" },
+  "modified": "2020-12-07T10:11:32",
+  "modified_gmt": "2020-12-07T10:11:32",
+  "slug": "nitrosamines-ema-medicines-pharmaceutical",
+  "status": "publish",
+  "type": "post",
+  "link": "./nitrosamines/ema/sartanmedicine-regulatory",
+  "title": {
+    "rendered": "Lessons Learnt from the Presence of N-nitrosamine Impurities in Sartan Medicines"
+  },
+  "content": {
+    "rendered": "<p><div class=\"fusion-fullwidth fullwidth-box fusion-builder-row-1 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling\" style=\"background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;\" ><div class=\"fusion-builder-row fusion-row\"><div class=\"fusion-layout-column fusion_builder_column fusion-builder-column-0 fusion_builder_column_2_3 2_3 fusion-two-third fusion-column-first\" style=\"width:66.666666666667%;width:calc(66.666666666667% - ( ( 4% ) * 0.66666666666667 ) );margin-right: 4%;margin-top:0px;margin-bottom:30px;\"><div class=\"fusion-column-wrapper fusion-flex-column-wrapper-legacy\" style=\"background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;\"><div class=\"fusion-clearfix\"></div></div></div></div></div><div class=\"fusion-fullwidth fullwidth-box fusion-builder-row-2 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling\" style=\"background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;\" ><div class=\"fusion-builder-row fusion-row\"><div class=\"fusion-layout-column fusion_builder_column fusion-builder-column-1 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last\" style=\"margin-top:0px;margin-bottom:30px;\"><div class=\"fusion-column-wrapper fusion-flex-column-wrapper-legacy\" style=\"background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;\"><div class=\"fusion-text fusion-text-1\"><h1>Lessons Learnt from the Presence of N-nitrosamine Impurities in Sartan Medicines</h1>\n</div><div class=\"fusion-clearfix\"></div></div></div></div></div><div class=\"fusion-fullwidth fullwidth-box fusion-builder-row-3 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling\" style=\"background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;\" ><div class=\"fusion-builder-row fusion-row\"><div class=\"fusion-layout-column fusion_builder_column fusion-builder-column-2 fusion_builder_column_2_3 2_3 fusion-two-third fusion-column-first\" style=\"width:66.666666666667%;width:calc(66.666666666667% - ( ( 4% ) * 0.66666666666667 ) );margin-right: 4%;margin-top:0px;margin-bottom:30px;\"><div class=\"fusion-column-wrapper fusion-flex-column-wrapper-legacy\" style=\"background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;\"><div class=\"fusion-clearfix\"></div></div></div><div class=\"fusion-layout-column fusion_builder_column fusion-builder-column-3 fusion_builder_column_1_3 1_3 fusion-one-third fusion-column-last\" style=\"width:33.333333333333%;width:calc(33.333333333333% - ( ( 4% ) * 0.33333333333333 ) );margin-top:0px;margin-bottom:30px;\"><div class=\"fusion-column-wrapper fusion-flex-column-wrapper-legacy\" style=\"background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;\"><div class=\"fusion-clearfix\"></div></div></div></div></div><div class=\"fusion-fullwidth fullwidth-box fusion-builder-row-4 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling\" style=\"background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;\" ><div class=\"fusion-builder-row fusion-row\"><div class=\"fusion-layout-column fusion_builder_column fusion-builder-column-4 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last\" style=\"margin-top:0px;margin-bottom:30px;\"><div class=\"fusion-column-wrapper fusion-flex-column-wrapper-legacy\" style=\"background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;\"><div class=\"fusion-text fusion-text-2\"><p>In 2018, the European medicines regulatory network became aware of the presence of N-nitrosamines in sartan APIs and instituted a series of regulatory actions across the EU, including recalls of some medicines and measures to prohibit the use of APIs from certain manufacturers. The case raised a number of important issues leading to a lessons learnt exercise to consider ways to prevent unexpected impurities such as N-nitrosamines from being present in human medicines and to better manage such cases should they occur in the future.</p>\n<p>In June of this year the EMA posted a document detailing the lessons learnt from this incident and made recommendations to reduce the potential of these and other impurities being present in human medicines.</p>\n<p>Recommendations include several revisions or clarifications of guidelines, as well as possible changes to legislation during implementation. CHMP is due to issue further detailed information, where companies will be required to have appropriate control strategies to prevent or limit the presence of these impurities and, where necessary, improve their manufacturing processes. Companies will also have to evaluate the risk of nitrosamines being present in medicines and carry out appropriate tests if a risk is identified.</p>\n</div><div class=\"fusion-sep-clear\"></div><div class=\"fusion-separator fusion-full-width-sep\" style=\"margin-left: auto;margin-right: auto;width:100%;\"></div><div class=\"fusion-sep-clear\"></div><div class=\"fusion-sep-clear\"></div><div class=\"fusion-separator fusion-full-width-sep\" style=\"margin-left: auto;margin-right: auto;width:100%;\"></div><div class=\"fusion-sep-clear\"></div><div class=\"fusion-text fusion-text-3\"><p><span style=\"color: #1d8674;\">Provided here is a summary of the 98 page lessons learnt document, with specific focus on regulatory implications. Watch this space for support and guidance from the Kinapse team in 2020 and beyond.</span></p>\n<p><span style=\"color: #1d8674;\">Use the button below to download the PDF and learn more.</span></p>\n</div><div class=\"fusion-sep-clear\"></div><div class=\"fusion-separator fusion-full-width-sep\" style=\"margin-left: auto;margin-right: auto;width:100%;\"></div><div class=\"fusion-sep-clear\"></div><div class=\"fusion-sep-clear\"></div><div class=\"fusion-separator fusion-full-width-sep\" style=\"margin-left: auto;margin-right: auto;width:100%;\"><div class=\"fusion-separator-border sep-single sep-solid\" style=\"border-color:#e0dede;border-top-width:1px;\"></div></div><div class=\"fusion-sep-clear\"></div><div class=\"fusion-aligncenter\"><style type=\"text/css\">.fusion-button.button-1 .fusion-button-text, .fusion-button.button-1 i {color:#ffffff;}.fusion-button.button-1 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-1:hover .fusion-button-text, .fusion-button.button-1:hover i,.fusion-button.button-1:focus .fusion-button-text, .fusion-button.button-1:focus i,.fusion-button.button-1:active .fusion-button-text, .fusion-button.button-1:active{color:#ffffff;}.fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:hover .fusion-button-icon-divider, .fusion-button.button-1:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-1:hover, .fusion-button.button-1:focus, .fusion-button.button-1:active{border-color:#ffffff;}.fusion-button.button-1 {border-color:#ffffff;border-radius:0px;}.fusion-button.button-1{background: #b21f74;}.fusion-button.button-1:hover,.button-1:focus,.fusion-button.button-1:active{background: #1d866c;}</style><a class=\"fusion-button button-flat fusion-button-default-size button-custom button-1 fusion-button-default-span fusion-button-default-type\" target=\"_self\" href=\"https://go.syneoshealth.com/l/63102/2020-08-01/4lfdzm/63102/204344/N_nitrosamine_Impurities_Lessons_Learnt_Document_Final.pdf\"><span class=\"fusion-button-text\">DOWNLOAD PDF</span></a></div><div class=\"fusion-sep-clear\"></div><div class=\"fusion-separator fusion-full-width-sep\" style=\"margin-left: auto;margin-right: auto;width:100%;\"></div><div class=\"fusion-sep-clear\"></div><div class=\"fusion-clearfix\"></div></div></div></div></div><div class=\"fusion-fullwidth fullwidth-box fusion-builder-row-5 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling\" style=\"background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;\" ><div class=\"fusion-builder-row fusion-row\"><div class=\"fusion-layout-column fusion_builder_column fusion-builder-column-5 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last\" style=\"margin-top:0px;margin-bottom:30px;\"><div class=\"fusion-column-wrapper fusion-flex-column-wrapper-legacy\" style=\"background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;\"><div class=\"fusion-sep-clear\"></div><div class=\"fusion-separator fusion-full-width-sep\" style=\"margin-left: auto;margin-right: auto;width:100%;\"><div class=\"fusion-separator-border sep-single sep-solid\" style=\"border-color:#e0dede;border-top-width:1px;\"></div></div><div class=\"fusion-sep-clear\"></div><div class=\"fusion-sep-clear\"></div><div class=\"fusion-separator fusion-full-width-sep\" style=\"margin-left: auto;margin-right: auto;width:100%;\"></div><div class=\"fusion-sep-clear\"></div><div class=\"fusion-aligncenter\"><style type=\"text/css\">.fusion-button.button-2 .fusion-button-text, .fusion-button.button-2 i {color:#ffffff;}.fusion-button.button-2 .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-2:hover .fusion-button-text, .fusion-button.button-2:hover i,.fusion-button.button-2:focus .fusion-button-text, .fusion-button.button-2:focus i,.fusion-button.button-2:active .fusion-button-text, .fusion-button.button-2:active{color:#ffffff;}.fusion-button.button-2:hover .fusion-button-icon-divider, .fusion-button.button-2:hover .fusion-button-icon-divider, .fusion-button.button-2:active .fusion-button-icon-divider{border-color:#ffffff;}.fusion-button.button-2:hover, .fusion-button.button-2:focus, .fusion-button.button-2:active{border-color:#ffffff;}.fusion-button.button-2 {border-color:#ffffff;border-radius:0px;}.fusion-button.button-2{background: #1d866c;\n\t\t\t\t\t\t\tbackground-image: -webkit-gradient( linear, left bottom, left top, from( #b21f74 ), to( #1d866c ) );\n\t\t\t\t\t\t\tbackground-image: -webkit-linear-gradient( bottom, #b21f74, #1d866c );\n\t\t\t\t\t\t\tbackground-image:   -moz-linear-gradient( bottom, #b21f74, #1d866c );\n\t\t\t\t\t\t\tbackground-image:     -o-linear-gradient( bottom, #b21f74, #1d866c );\n\t\t\t\t\t\t\tbackground-image: linear-gradient( to top, #b21f74, #1d866c );}.fusion-button.button-2:hover,.button-2:focus,.fusion-button.button-2:active{background: #1d866c;}</style><a class=\"fusion-button button-flat fusion-button-default-size button-custom button-2 fusion-button-default-span fusion-button-default-type\" target=\"_self\" href=\"https://www.ema.europa.eu/en/documents/report/lessons-learnt-presence-n-nitrosamine-impurities-sartan-medicines_en.pdf\"><span class=\"fusion-button-text\">Full EMA document </span></a></div><div class=\"fusion-clearfix\"></div></div></div></div></div><div class=\"fusion-fullwidth fullwidth-box fusion-builder-row-6 nonhundred-percent-fullwidth non-hundred-percent-height-scrolling\" style=\"background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-bottom: 0px;margin-top: 0px;border-width: 0px 0px 0px 0px;border-color:#eae9e9;border-style:solid;\" ><div class=\"fusion-builder-row fusion-row\"><div class=\"fusion-layout-column fusion_builder_column fusion-builder-column-6 fusion_builder_column_1_1 1_1 fusion-one-full fusion-column-first fusion-column-last\" style=\"margin-top:0px;margin-bottom:30px;\"><div class=\"fusion-column-wrapper fusion-flex-column-wrapper-legacy\" style=\"background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;padding: 0px 0px 0px 0px;\"><div class=\"fusion-sep-clear\"></div><div class=\"fusion-separator fusion-full-width-sep\" style=\"margin-left: auto;margin-right: auto;width:100%;\"><div class=\"fusion-separator-border sep-single sep-solid\" style=\"border-color:#e0dede;border-top-width:1px;\"></div></div><div class=\"fusion-sep-clear\"></div><ul class=\"fusion-checklist fusion-checklist-1\" style=\"font-size:13px;line-height:22.1px;\"><li class=\"fusion-li-item\"><span style=\"height:22.1px;width:22.1px;margin-right:9.1px;\" class=\"icon-wrapper circle-no\"><i class=\"fusion-li-icon fa fa-arrow-left\" style=\"color:#b21f74;\" aria-hidden=\"true\"></i></span><div class=\"fusion-li-item-content\" style=\"margin-left:31.2px;\">\n<p><a href=\"./blog/\">Back to Kinapse blog</a></p>\n</div></li></ul><div class=\"fusion-clearfix\"></div></div></div></div></div></p>\n",
+    "protected": false
+  },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 16,
+  "featured_media": 16117,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": { "_mi_skip_tracking": false },
+  "categories": [35],
+  "tags": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.9 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Lessons Learnt from the Presence of N-nitrosamine Impurities in Sartan Medicines</title>\n<meta name=\"description\" content=\"Provided here is a summary of the 98 page lessons learnt document, with specific focus on regulatory implications. Watch this space for support and guidance from the Kinapse team in 2020 and beyond and the full EMA document\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"./nitrosamines/ema/sartanmedicine-regulatory/\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Kinapse welcomes you to ICH Q12\" />\n<meta property=\"og:description\" content=\"Provided here is a summary of the 98 page lessons learnt document, with specific focus on regulatory implications. Watch this space for support and guidance from the Kinapse team in 2020 and beyond and the full EMA document\" />\n<meta property=\"og:url\" content=\"./nitrosamines/ema/sartanmedicine-regulatory/\" />\n<meta property=\"og:site_name\" content=\"Kinapse website\" />\n<meta property=\"article:published_time\" content=\"2020-07-31T12:26:54+00:00\" />\n<meta property=\"article:modified_time\" content=\"2020-12-07T10:11:32+00:00\" />\n<meta property=\"og:image\" content=\"./wp-content/uploads/2015/12/Webinar-Achieving-EMA-policy-0070-compliance.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1200\" />\n\t<meta property=\"og:image:height\" content=\"468\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"author\" content=\"Konstantina Konstantinopoulou\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:title\" content=\"Kinapse welcomes you to ICH Q12\" />\n<meta name=\"twitter:image\" content=\"./wp-content/uploads/2015/12/Webinar-Achieving-EMA-policy-0070-compliance.jpg\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Konstantina Konstantinopoulou\" />\n\t<meta name=\"twitter:label2\" content=\"Estimated reading time\" />\n\t<meta name=\"twitter:data2\" content=\"15 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"./nitrosamines/ema/sartanmedicine-regulatory/\",\"url\":\"./nitrosamines/ema/sartanmedicine-regulatory/\",\"name\":\"Lessons Learnt from the Presence of N-nitrosamine Impurities in Sartan Medicines\",\"isPartOf\":{\"@id\":\"./#website\"},\"datePublished\":\"2020-07-31T12:26:54+00:00\",\"dateModified\":\"2020-12-07T10:11:32+00:00\",\"author\":{\"@id\":\"./#/schema/person/e5ad1bfc52f97a0dd21ea22bd11f8533\"},\"description\":\"Provided here is a summary of the 98 page lessons learnt document, with specific focus on regulatory implications. Watch this space for support and guidance from the Kinapse team in 2020 and beyond and the full EMA document\",\"breadcrumb\":{\"@id\":\"./nitrosamines/ema/sartanmedicine-regulatory/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"./nitrosamines/ema/sartanmedicine-regulatory/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"./nitrosamines/ema/sartanmedicine-regulatory/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"./\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Lessons Learnt from the Presence of N-nitrosamine Impurities in Sartan Medicines\"}]},{\"@type\":\"WebSite\",\"@id\":\"./#website\",\"url\":\"./\",\"name\":\"Kinapse website\",\"description\":\"Kinapse website\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"./?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Person\",\"@id\":\"./#/schema/person/e5ad1bfc52f97a0dd21ea22bd11f8533\",\"name\":\"Konstantina Konstantinopoulou\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"./#/schema/person/image/\",\"url\":\"https://secure.gravatar.com/avatar/31df1069f4b65fe2cb70fc4a99a52f98?s=96&d=mm&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/31df1069f4b65fe2cb70fc4a99a52f98?s=96&d=mm&r=g\",\"caption\":\"Konstantina Konstantinopoulou\"},\"url\":\"./author/konstantina-konstantinopoulou/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Lessons Learnt from the Presence of N-nitrosamine Impurities in Sartan Medicines",
+    "description": "Provided here is a summary of the 98 page lessons learnt document, with specific focus on regulatory implications. Watch this space for support and guidance from the Kinapse team in 2020 and beyond and the full EMA document",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "./nitrosamines/ema/sartanmedicine-regulatory/",
+    "og_locale": "en_GB",
+    "og_type": "article",
+    "og_title": "Kinapse welcomes you to ICH Q12",
+    "og_description": "Provided here is a summary of the 98 page lessons learnt document, with specific focus on regulatory implications. Watch this space for support and guidance from the Kinapse team in 2020 and beyond and the full EMA document",
+    "og_url": "./nitrosamines/ema/sartanmedicine-regulatory/",
+    "og_site_name": "Kinapse website",
+    "article_published_time": "2020-07-31T12:26:54+00:00",
+    "article_modified_time": "2020-12-07T10:11:32+00:00",
+    "og_image": [
+      {
+        "width": 1200,
+        "height": 468,
+        "url": "./wp-content/uploads/2015/12/Webinar-Achieving-EMA-policy-0070-compliance.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "author": "Konstantina Konstantinopoulou",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "Kinapse welcomes you to ICH Q12",
+    "twitter_image": "./wp-content/uploads/2015/12/Webinar-Achieving-EMA-policy-0070-compliance.jpg",
+    "twitter_misc": {
+      "Written by": "Konstantina Konstantinopoulou",
+      "Estimated reading time": "15 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "./nitrosamines/ema/sartanmedicine-regulatory/",
+          "url": "./nitrosamines/ema/sartanmedicine-regulatory/",
+          "name": "Lessons Learnt from the Presence of N-nitrosamine Impurities in Sartan Medicines",
+          "isPartOf": { "@id": "./#website" },
+          "datePublished": "2020-07-31T12:26:54+00:00",
+          "dateModified": "2020-12-07T10:11:32+00:00",
+          "author": {
+            "@id": "./#/schema/person/e5ad1bfc52f97a0dd21ea22bd11f8533"
+          },
+          "description": "Provided here is a summary of the 98 page lessons learnt document, with specific focus on regulatory implications. Watch this space for support and guidance from the Kinapse team in 2020 and beyond and the full EMA document",
+          "breadcrumb": {
+            "@id": "./nitrosamines/ema/sartanmedicine-regulatory/#breadcrumb"
+          },
+          "inLanguage": "en-GB",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "./nitrosamines/ema/sartanmedicine-regulatory/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "./nitrosamines/ema/sartanmedicine-regulatory/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "./"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Lessons Learnt from the Presence of N-nitrosamine Impurities in Sartan Medicines"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "./#website",
+          "url": "./",
+          "name": "Kinapse website",
+          "description": "Kinapse website",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "./?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-GB"
+        },
+        {
+          "@type": "Person",
+          "@id": "./#/schema/person/e5ad1bfc52f97a0dd21ea22bd11f8533",
+          "name": "Konstantina Konstantinopoulou",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "en-GB",
+            "@id": "./#/schema/person/image/",
+            "url": "https://secure.gravatar.com/avatar/31df1069f4b65fe2cb70fc4a99a52f98?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/31df1069f4b65fe2cb70fc4a99a52f98?s=96&d=mm&r=g",
+            "caption": "Konstantina Konstantinopoulou"
+          },
+          "url": "./author/konstantina-konstantinopoulou/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "./wp-json/wp/v2/posts/16599" }],
+    "collection": [{ "href": "./wp-json/wp/v2/posts" }],
+    "about": [{ "href": "./wp-json/wp/v2/types/post" }],
+    "author": [
+      { "embeddable": true, "href": "./wp-json/wp/v2/users/16" }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "./wp-json/wp/v2/comments?post=16599"
+      }
+    ],
+    "version-history": [
+      { "count": 8, "href": "./wp-json/wp/v2/posts/16599/revisions" }
+    ],
+    "predecessor-version": [
+      {
+        "id": 16841,
+        "href": "./wp-json/wp/v2/posts/16599/revisions/16841"
+      }
+    ],
+    "wp:featuredmedia": [
+      { "embeddable": true, "href": "./wp-json/wp/v2/media/16117" }
+    ],
+    "wp:attachment": [{ "href": "./wp-json/wp/v2/media?parent=16599" }],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "./wp-json/wp/v2/categories?post=16599"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "./wp-json/wp/v2/tags?post=16599"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

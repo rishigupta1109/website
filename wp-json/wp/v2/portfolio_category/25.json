@@ -1,0 +1,92 @@
+{
+  "id": 25,
+  "count": 1,
+  "description": "",
+  "link": "./portfolio_category/whitepapers/",
+  "name": "White Papers",
+  "slug": "whitepapers",
+  "taxonomy": "portfolio_category",
+  "parent": 0,
+  "meta": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.9 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>White Papers Archives - Kinapse website</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"./portfolio_category/whitepapers/\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"White Papers Archives - Kinapse website\" />\n<meta property=\"og:url\" content=\"./portfolio_category/whitepapers/\" />\n<meta property=\"og:site_name\" content=\"Kinapse website\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"./portfolio_category/whitepapers/\",\"url\":\"./portfolio_category/whitepapers/\",\"name\":\"White Papers Archives - Kinapse website\",\"isPartOf\":{\"@id\":\"./#website\"},\"breadcrumb\":{\"@id\":\"./portfolio_category/whitepapers/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"./portfolio_category/whitepapers/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"./\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"White Papers\"}]},{\"@type\":\"WebSite\",\"@id\":\"./#website\",\"url\":\"./\",\"name\":\"Kinapse website\",\"description\":\"Kinapse website\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"./?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "White Papers Archives - Kinapse website",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "./portfolio_category/whitepapers/",
+    "og_locale": "en_GB",
+    "og_type": "article",
+    "og_title": "White Papers Archives - Kinapse website",
+    "og_url": "./portfolio_category/whitepapers/",
+    "og_site_name": "Kinapse website",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "./portfolio_category/whitepapers/",
+          "url": "./portfolio_category/whitepapers/",
+          "name": "White Papers Archives - Kinapse website",
+          "isPartOf": { "@id": "./#website" },
+          "breadcrumb": {
+            "@id": "./portfolio_category/whitepapers/#breadcrumb"
+          },
+          "inLanguage": "en-GB"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "./portfolio_category/whitepapers/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "./"
+            },
+            { "@type": "ListItem", "position": 2, "name": "White Papers" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "./#website",
+          "url": "./",
+          "name": "Kinapse website",
+          "description": "Kinapse website",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "./?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-GB"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "./wp-json/wp/v2/portfolio_category/25" }],
+    "collection": [{ "href": "./wp-json/wp/v2/portfolio_category" }],
+    "about": [
+      { "href": "./wp-json/wp/v2/taxonomies/portfolio_category" }
+    ],
+    "wp:post_type": [
+      {
+        "href": "./wp-json/wp/v2/avada_portfolio?portfolio_category=25"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

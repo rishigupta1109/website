@@ -1,0 +1,84 @@
+{
+  "id": 34,
+  "count": 12,
+  "description": "",
+  "link": "./category/event/",
+  "name": "Event",
+  "slug": "event",
+  "taxonomy": "category",
+  "parent": 0,
+  "meta": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.9 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Event Archives - Kinapse website</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"./category/event/\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Event Archives - Kinapse website\" />\n<meta property=\"og:url\" content=\"./category/event/\" />\n<meta property=\"og:site_name\" content=\"Kinapse website\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"./category/event/\",\"url\":\"./category/event/\",\"name\":\"Event Archives - Kinapse website\",\"isPartOf\":{\"@id\":\"./#website\"},\"breadcrumb\":{\"@id\":\"./category/event/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"./category/event/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"./\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Event\"}]},{\"@type\":\"WebSite\",\"@id\":\"./#website\",\"url\":\"./\",\"name\":\"Kinapse website\",\"description\":\"Kinapse website\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"./?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Event Archives - Kinapse website",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "./category/event/",
+    "og_locale": "en_GB",
+    "og_type": "article",
+    "og_title": "Event Archives - Kinapse website",
+    "og_url": "./category/event/",
+    "og_site_name": "Kinapse website",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "./category/event/",
+          "url": "./category/event/",
+          "name": "Event Archives - Kinapse website",
+          "isPartOf": { "@id": "./#website" },
+          "breadcrumb": { "@id": "./category/event/#breadcrumb" },
+          "inLanguage": "en-GB"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "./category/event/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "./"
+            },
+            { "@type": "ListItem", "position": 2, "name": "Event" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "./#website",
+          "url": "./",
+          "name": "Kinapse website",
+          "description": "Kinapse website",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "./?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-GB"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "./wp-json/wp/v2/categories/34" }],
+    "collection": [{ "href": "./wp-json/wp/v2/categories" }],
+    "about": [{ "href": "./wp-json/wp/v2/taxonomies/category" }],
+    "wp:post_type": [{ "href": "./wp-json/wp/v2/posts?categories=34" }],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

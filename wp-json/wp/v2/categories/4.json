@@ -1,0 +1,84 @@
+{
+  "id": 4,
+  "count": 13,
+  "description": "",
+  "link": "./category/kinapse/",
+  "name": "Kinapse",
+  "slug": "kinapse",
+  "taxonomy": "category",
+  "parent": 0,
+  "meta": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.9 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Kinapse Archives - Kinapse website</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"./category/kinapse/\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Kinapse Archives - Kinapse website\" />\n<meta property=\"og:url\" content=\"./category/kinapse/\" />\n<meta property=\"og:site_name\" content=\"Kinapse website\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"./category/kinapse/\",\"url\":\"./category/kinapse/\",\"name\":\"Kinapse Archives - Kinapse website\",\"isPartOf\":{\"@id\":\"./#website\"},\"breadcrumb\":{\"@id\":\"./category/kinapse/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"./category/kinapse/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"./\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Kinapse\"}]},{\"@type\":\"WebSite\",\"@id\":\"./#website\",\"url\":\"./\",\"name\":\"Kinapse website\",\"description\":\"Kinapse website\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"./?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Kinapse Archives - Kinapse website",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "./category/kinapse/",
+    "og_locale": "en_GB",
+    "og_type": "article",
+    "og_title": "Kinapse Archives - Kinapse website",
+    "og_url": "./category/kinapse/",
+    "og_site_name": "Kinapse website",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "CollectionPage",
+          "@id": "./category/kinapse/",
+          "url": "./category/kinapse/",
+          "name": "Kinapse Archives - Kinapse website",
+          "isPartOf": { "@id": "./#website" },
+          "breadcrumb": { "@id": "./category/kinapse/#breadcrumb" },
+          "inLanguage": "en-GB"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "./category/kinapse/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "./"
+            },
+            { "@type": "ListItem", "position": 2, "name": "Kinapse" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "./#website",
+          "url": "./",
+          "name": "Kinapse website",
+          "description": "Kinapse website",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "./?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-GB"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "./wp-json/wp/v2/categories/4" }],
+    "collection": [{ "href": "./wp-json/wp/v2/categories" }],
+    "about": [{ "href": "./wp-json/wp/v2/taxonomies/category" }],
+    "wp:post_type": [{ "href": "./wp-json/wp/v2/posts?categories=4" }],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}
