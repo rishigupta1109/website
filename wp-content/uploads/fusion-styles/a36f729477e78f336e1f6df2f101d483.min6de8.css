@@ -11144,13 +11144,13 @@ body:not(.mobile-menu-design-flyout) .fusion-mobile-nav-item a {
   border-color: rgba(255, 255, 255, 0.1);
 }
 body:not(.mobile-menu-design-flyout) .fusion-mobile-nav-item a:hover {
-  background-color: #b21f74;
+  background-color: teal;
 }
 body:not(.mobile-menu-design-flyout) .fusion-mobile-current-nav-item > a,
 body:not(.mobile-menu-design-flyout)
   .fusion-mobile-nav-item.current-menu-item
   > a {
-  background-color: #b21f74;
+  background-color: teal;
 }
 .fusion-mobile-selector {
   height: 55px;
@@ -11433,7 +11433,7 @@ html.avada-header-color-not-opaque.no-overflow-y
 .fusion-image-wrapper .fusion-rollover {
   background-image: linear-gradient(
     to top,
-    #b21f74 0,
+    teal 0,
     rgba(178, 31, 116, 0.8) 100%
   );
 }
@@ -12670,7 +12670,7 @@ article.fusion-portfolio-post.post.fusion-col-spacing {
   border-top: 0px solid #ffffff;
   background-image: ;
   background-repeat: repeat;
-  background-color: #b21f74;
+  background-color: teal;
   background-size: initial;
   background-position: center center;
   color: #ffffff;
@@ -12794,7 +12794,7 @@ article.fusion-portfolio-post.post.fusion-col-spacing {
   color: #1d866c;
 }
 .fusion-footer-widget-area .widget a:hover {
-  color: #1d866c;
+  color: #60e6c2;
 }
 .fusion-footer-widget-area .widget_nav_menu > div > ul > li:first-child {
   padding-top: 0;
@@ -12823,7 +12823,7 @@ article.fusion-portfolio-post.post.fusion-col-spacing {
   width: 100%;
 }
 .fusion-footer-widget-area .fusion-tabs-widget .fusion-tabs-nav ul li {
-  border-color: #b21f74;
+  border-color: teal;
 }
 .fusion-footer-widget-area .fusion-tabs-widget .fusion-tabs-nav ul li a {
   background: rgba(0, 0, 0, 0.2);
@@ -12964,10 +12964,10 @@ article.fusion-portfolio-post.post.fusion-col-spacing {
   .menu
   li.current_page_ancestor
   > a {
-  color: #1d866c;
+  color: #6ae6c7;
 }
 #wrapper .fusion-footer-widget-area .jtwt .jtwt_tweet a:hover {
-  color: #1d866c;
+  color: #6ae6c7;
 }
 #wrapper
   .fusion-footer-widget-area
@@ -12993,7 +12993,7 @@ article.fusion-portfolio-post.post.fusion-col-spacing {
   .nav-tabs
   > li.active
   .tab-link {
-  border-color: #1d866c;
+  border-color: #6ae6c7;
 }
 .fusion-footer-copyright-area {
   z-index: 10;
@@ -14527,7 +14527,7 @@ tr td {
   --mobile_menu_nav_height: 55px;
   --mobile_header_bg_color: rgb(255, 255, 255);
   --mobile_menu_background_color: #253745;
-  --mobile_menu_hover_color: #b21f74;
+  --mobile_menu_hover_color: teal;
   --mobile_menu_border_color: rgba(255, 255, 255, 0.1);
   --mobile_menu_toggle_color: #35985a;
   --mobile_menu_typography-font-family: "Sinkin Sans Regular";
@@ -14729,7 +14729,7 @@ tr td {
   --button_border_radius: 0px;
   --button_border_color: #ffffff;
   --button_border_hover_color: #ffffff;
-  --checklist_icons_color: #b21f74;
+  --checklist_icons_color: teal;
   --checklist_circle_color: #3bafbf;
   --checklist_divider_color: #e0dede;
   --countdown_background_color: #67b7e1;
@@ -14853,7 +14853,7 @@ tr td {
   --footerw_bg_full-position: center center;
   --footerw_bg_repeat: repeat;
   --footerw_bg_pos: center center;
-  --footer_bg_color: #b21f74;
+  --footer_bg_color: teal;
   --footer_border_size: 0px;
   --footer_border_color: #ffffff;
   --footer_link_color: #ffffff;
@@ -14983,7 +14983,7 @@ tr td {
   --image_gradient_top_color: rgba(178, 31, 116, 0.8);
 }
 .fusion-rollover {
-  --image_gradient_bottom_color: #b21f74;
+  --image_gradient_bottom_color: teal;
   --image_rollover_icon_color: #333c4e;
 }
 .shadow-left {
@@ -15030,7 +15030,7 @@ body {
   --container_scroll_nav_bullet_color: #eeeeee;
 }
 .fusion-body .fusion-dropcap {
-  --dropcap_color: #b21f74;
+  --dropcap_color: teal;
   --dropcap_text_color: #fff;
 }
 .popover {
@@ -27482,7 +27482,7 @@ ul.fusion-checklist .circle-yes {
   padding: 0;
   height: 52px;
   line-height: 52px;
-  color: #b21f74;
+  color: teal;
   font-size: 60px;
   text-transform: uppercase;
 }
@@ -27495,7 +27495,7 @@ ul.fusion-checklist .circle-yes {
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
   color: #fff;
   font-size: 45px;
-  background-color: #b21f74;
+  background-color: teal;
 }
 .fusion-flip-boxes {
   margin-bottom: 25px;
@@ -42855,7 +42855,7 @@ body.fusion-no-absolute-containers .fusion-absolute-container {
 .fusion-image-wrapper .fusion-rollover {
   background-image: linear-gradient(
     to top,
-    #b21f74 0,
+    teal 0,
     rgba(178, 31, 116, 0.8) 100%
   );
 }
